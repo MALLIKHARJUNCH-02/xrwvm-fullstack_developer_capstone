@@ -124,3 +124,28 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.contact_mk{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 10px #0C9;
+    width: 80%;
+}
+.contact_mk_inner1 img{
+    margin: 2px;
+    border-radius: 120px;
+}
+.contact_mk_inner2{
+    text-align: center;
+}
+.contact_mk_inner2 ul{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 23px;
+}
+
